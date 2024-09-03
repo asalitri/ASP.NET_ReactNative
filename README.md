@@ -28,6 +28,8 @@ GOOGLE_MAPS_API_KEY=[Your API Key here]
 ```
 
 ##### Install Dependencies:
+
+Abhi Salitri
 ```
 npm install
 ```
